@@ -1,4 +1,4 @@
-package crawler.example;
+package crawler.example.exam;
 
 import com.github.abola.crawler.CrawlerPack;
 import org.apache.commons.logging.impl.SimpleLog;
@@ -12,7 +12,7 @@ import org.jsoup.nodes.Element;
  * @author Abola Lee
  *
  */
-public class PTTtest {
+public class PTTExam {
 	// commit test
 	public static void main(String[] args) {
 
