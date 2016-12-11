@@ -33,7 +33,7 @@ public class BasicExample {
 				.getFromJson(uri)
 			    //.getFromHtml(uri)
 			    //.getFromXml(uri)
-			    
+
 			    // 這兒開始是 Jsoup Document 物件操作
 			    .select(".css .selector ")
 			    
